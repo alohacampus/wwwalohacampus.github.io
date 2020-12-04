@@ -1,2 +1,2 @@
 # wwwalohacampus.github.io
-io
+https://alohacampus.github.io/wwwalohacampus.github.io/
